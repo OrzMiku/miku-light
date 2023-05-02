@@ -2,7 +2,7 @@
   "name": "miku-light",
   "displayName": "Miku Light",
   "description": "初音-轻",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "OrzMiku",
   "icon": "icon/logo.png",
   "engines": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OrzMiku/MikuLight"
+    "url": "https://github.com/OrzMiku/miku-light"
   },
   "keywords": [
     "theme",
