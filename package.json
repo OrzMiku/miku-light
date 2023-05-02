@@ -1,0 +1,32 @@
+{
+  "name": "miku-light",
+  "displayName": "Miku Light",
+  "description": "初音-轻",
+  "version": "0.0.3",
+  "publisher": "OrzMiku",
+  "icon": "icon/logo.png",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrzMiku/MikuLight"
+  },
+  "keywords": [
+    "theme",
+    "light",
+    "miku"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Miku Light",
+        "uiTheme": "vs",
+        "path": "./themes/OrzMiku-color-theme.json"
+      }
+    ]
+  }
+}
