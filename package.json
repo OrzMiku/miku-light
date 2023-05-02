@@ -2,7 +2,7 @@
   "name": "miku-light",
   "displayName": "Miku Light",
   "description": "初音-轻",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "OrzMiku",
   "icon": "icon/logo.png",
   "engines": {
